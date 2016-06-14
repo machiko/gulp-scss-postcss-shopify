@@ -1,0 +1,29 @@
+// Add custom font
+// @import url(http://fonts.googleapis.com/css?family=Raleway:400,700,300);
+// $font-family-base: 'Raleway', sans-serif;
+
+// Import bootstrap and fontawesome
+// @import "bootstrap";
+// @import "fontawesome";
+
+// @import "bootstrap";
+// @import "bootstrap/theme";
+
+// Bootstrap Starter Template Styles
+body {
+  padding-top: 50px;
+}
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+
+.autoprefixer {
+  display: flex;
+  // color: $(headline_color);
+  // font-family: $(regular_websafe_font | replace: '+', ' ');
+  // font-size: $(regular_font_size)px;
+  // border: 1px solid $(border_color);
+  // background: rgba($(settings.header_bg_color), 0.9);
+  background: url(logo.png);
+}
